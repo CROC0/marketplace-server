@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGODB_URI": "mongodb+srv://admin:TbDC4MhjauAvj5TM@cluster0.2y5sx.mongodb.net/marketplace?retryWrites=true&w=majority",
+    "SECRET_KEY": "jhfhuisdafpiuewriuweriu32b42ib4iuh34ui3bibdfuihyec78",
+    "EMAIL_ACCOUNT": "crocs.universe@gmail.com",
+    "EMAIL_PASSWORD": "dfasfhdsijfhewuorhndes"
+  }
+}
